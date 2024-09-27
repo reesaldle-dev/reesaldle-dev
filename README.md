@@ -4,7 +4,7 @@
 Hi Im reesaldle a fullstack developer, and owner of velara unblocked
 
 ## Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://reesaldle.com/)
+[![reesaldle.com](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://reesaldle.com/)
 
 ## Tools & Languages
 <div>
