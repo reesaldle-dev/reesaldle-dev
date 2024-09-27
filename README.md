@@ -1,4 +1,4 @@
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&pause=1000&color=FF3030&center=true&vCenter=true&width=435&lines=+++++++++++++++++Hey+I'm+reesaldle;I+own+Velara+unblocked;And+many+other+projects)](https://git.io/typing-svg)
 
 ## About Me
 Hi Im reesaldle a fullstack developer, and owner of velara unblocked
