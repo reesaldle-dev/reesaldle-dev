@@ -20,8 +20,6 @@ Hi Im reesaldle, a fullstack developer, and owner of Velara Unblocked.
 ## Other things
 [![Discord Presence](https://lanyard.cnrad.dev/api/1266516565780856903)](https://discord.com/users/1266516565780856903)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U6Z3TZX)
-
 ![Bottom down](https://github.com/reesaldle-dev/reesaldle-dev/raw/main/Bottom_down.svg)
 
 </div>
