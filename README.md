@@ -19,7 +19,7 @@ Hi Im reesaldle, a fullstack developer, and owner of Velara Unblocked.
 ## Other things
 [![Discord Presence](https://lanyard.cnrad.dev/api/1266516565780856903)](https://discord.com/users/1266516565780856903)
 <p align="center">
-    <img src="https://profile-counter.glitch.me/aukak/count.svg" alt="Visitor Count" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+    <img src="https://profile-counter.glitch.me/reesaldle/count.svg" alt="Visitor Count" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
 </p>
 
 ![Bottom down](https://github.com/reesaldle-dev/reesaldle-dev/raw/main/Bottom_down.svg)
